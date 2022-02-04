@@ -3,22 +3,22 @@ The long-held view that coin collecting began with the Italian Renaissance has b
 The broader field of art collecting, for which specific and reliable accounts do exist, began in the 4th or 3rd century BC. Since coins of that period are universally recognized as works of art, and since they were among the most affordable and transportable objects of the art world, it is not surprising that they would have been collected even then. Certainly, they were appreciated for more than their value as currency, because they were often used in jewelry and decorative arts of the period.
 
 <ul><li><a href="/wiki/Bi-metallic_coin" title="Bi-metallic coin">Bi-metallic coin</a></li>
-<li><a href="/wiki/Coin_collecting" title="Coin collecting">Coin collecting</a></li>
-<li><a href="/wiki/Coin_counter" class="mw-redirect" title="Coin counter">Coin counter</a></li>
-<li><a href="/wiki/Coin_counterfeiting" title="Coin counterfeiting">Coin counterfeiting</a></li>
-<li><a href="/wiki/Coin_magic" title="Coin magic">Coin magic</a></li>
-<li><a href="/wiki/Coin_sorter" class="mw-redirect" title="Coin sorter">Coin sorter</a></li>
-<li><a href="/wiki/Currency" title="Currency">Currency</a></li>
-<li><a href="/wiki/Hanukkah_gelt" title="Hanukkah gelt">Hanukkah gelt</a> – <a href="/wiki/Chocolate_coin" title="Chocolate coin">Chocolate coin</a></li>
-<li><a href="/wiki/Hanukkah_gelt" title="Hanukkah gelt">Hanukkah gelt</a> – <a href="/wiki/Chocolate_coin" title="Chocolate coin">Chocolate coin</a></li>
-<li><a href="/wiki/History_of_coins" title="History of coins">History of coins</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Coin_collecting" title="Coin collecting">Coin collecting</a></li>
+<li><a href="https://en.wikipedia.org//wiki/Coin_counter" class="mw-redirect" title="Coin counter">Coin counter</a></li>
+<li><a href="https://en.wikipedia.org//wiki/Coin_counterfeiting" title="Coin counterfeiting">Coin counterfeiting</a></li>
+<li><a href="https://en.wikipedia.org//wiki/Coin_magic" title="Coin magic">Coin magic</a></li>
+<li><a href="https://en.wikipedia.org//wiki/Coin_sorter" class="mw-redirect" title="Coin sorter">Coin sorter</a></li>
+<li><a href="https://en.wikipedia.org//wiki/Currency" title="Currency">Currency</a></li>
+<li><a href="https://en.wikipedia.org//wiki/Hanukkah_gelt" title="Hanukkah gelt">Hanukkah gelt</a> – <a href="/wiki/Chocolate_coin" title="Chocolate coin">Chocolate coin</a></li>
+<li><a href="https://en.wikipedia.org//wiki/Hanukkah_gelt" title="Hanukkah gelt">Hanukkah gelt</a> – <a href="/wiki/Chocolate_coin" title="Chocolate coin">Chocolate coin</a></li>
+<li><a href="https://en.wikipedia.org//wiki/History_of_coins" title="History of coins">History of coins</a></li>
 <li><a href="https://essaymin.com/cn/" title="paper">paper</a></li>
-<li><a href="/wiki/List_of_currencies" title="List of currencies">List of currencies</a></li>
-<li><a href="/wiki/List_of_circulating_currencies" title="List of circulating currencies">List of circulating currencies</a></li>
-<li><a href="/wiki/List_of_mints" title="List of mints">List of mints</a></li>
-<li><a href="/wiki/List_of_most_expensive_coins" title="List of most expensive coins">List of most expensive coins</a></li>
-<li><a href="/wiki/Mint_(coin)" class="mw-redirect" title="Mint (coin)">Mint</a></li>
-<li><a href="/wiki/Money" title="Money">Money</a></li>
-<li><a href="/wiki/Seigniorage" title="Seigniorage">Seigniorage</a></li>
-<li><a href="/wiki/Token_coin" title="Token coin">Token coin</a></li>
-<li><a href="/wiki/Ten-cent_coin" title="Ten-cent coin">Ten-cent coin</a></li></ul></div>
+<li><a href="https://en.wikipedia.org//wiki/List_of_currencies" title="List of currencies">List of currencies</a></li>
+<li><a href="https://en.wikipedia.org//wiki/List_of_circulating_currencies" title="List of circulating currencies">List of circulating currencies</a></li>
+<li><a href="https://en.wikipedia.org//wiki/List_of_mints" title="List of mints">List of mints</a></li>
+<li><a href="https://en.wikipedia.org//wiki/List_of_most_expensive_coins" title="List of most expensive coins">List of most expensive coins</a></li>
+<li><a href="https://en.wikipedia.org//wiki/Mint_(coin)" class="mw-redirect" title="Mint (coin)">Mint</a></li>
+<li><a href="https://en.wikipedia.org//wiki/Money" title="Money">Money</a></li>
+<li><a href="https://en.wikipedia.org//wiki/Seigniorage" title="Seigniorage">Seigniorage</a></li>
+<li><a href="https://en.wikipedia.org//wiki/Token_coin" title="Token coin">Token coin</a></li>
+<li><a href="https://en.wikipedia.org//wiki/Ten-cent_coin" title="Ten-cent coin">Ten-cent coin</a></li></ul></div>
